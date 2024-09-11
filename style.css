@@ -20,9 +20,8 @@ body {
 .container {
   position: relative;
   width: 90%;
-  height: 80vh;
   max-width: 800px; /* Set a max-width for larger screens */
-  padding: 2rem;
+  padding: 5rem;
   display: flex;
   flex-direction: column; /* Ensure items are stacked vertically */
   justify-content: center;
