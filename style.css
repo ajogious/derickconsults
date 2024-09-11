@@ -21,7 +21,7 @@ body {
   position: relative;
   width: 90%;
   max-width: 800px; /* Set a max-width for larger screens */
-  padding: 5rem;
+  padding: 8rem;
   display: flex;
   flex-direction: column; /* Ensure items are stacked vertically */
   justify-content: center;
