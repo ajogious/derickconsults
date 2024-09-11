@@ -114,7 +114,6 @@ strong {
 
   /* Adjust padding and margin for smaller screens */
   .container {
-    padding: 1rem;
     margin: 1rem;
   }
 }
