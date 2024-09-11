@@ -20,6 +20,7 @@ body {
 .container {
   position: relative;
   width: 90%;
+  height: 80vh;
   max-width: 800px; /* Set a max-width for larger screens */
   padding: 2rem;
   display: flex;
